@@ -891,7 +891,7 @@ input{
 .creator_name{
   margin-top: 1.38888889vh;    /*15px*/
   font-family: Dosis-Medium;
-  font-size: 1.875vw;    /*36px*/
+  font-size: 3.33333vh;    /*36px*/
   -webkit-flex-basis: 100%;
       -ms-flex-preferred-size: 100%;
           flex-basis: 100%;
@@ -900,7 +900,7 @@ input{
 .creator_role{
   margin-bottom: 1.481481vh;    /*16px*/
   font-family: Dosis-Light;
-  font-size: 1.25vw;    /*24px*/
+  font-size: 2.22222vh;    /*24px*/
   -webkit-flex-basis: 100%;
       -ms-flex-preferred-size: 100%;
           flex-basis: 100%;
